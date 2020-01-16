@@ -31,7 +31,7 @@ sudo apt install build-essential uuid-dev iasl git nasm python3-distutils gcc-aa
 
 同时访问 [EDK2 website](https://github.com/tianocore/tianocore.github.io/wiki/Using-EDK-II-with-Native-GCC#Install_required_software_from_apt)
 
-最后, ./build.sh
+最后, `./build.sh`
 
 然后 `fastboot boot uefi.img`
 
@@ -39,4 +39,4 @@ sudo apt install build-essential uuid-dev iasl git nasm python3-distutils gcc-aa
 
 - 感谢 [tianocore](https://github.com/tianocore) 的 [EDK2](https://github.com/tianocore/edk2), [EDK2-platforms](https://github.com/tianocore/edk2-platforms) 和文档支持
 - 感谢 [Pixel3Dev](https://github.com/Pixel3Dev) 和 [fxsheep](https://github.com/fxsheep) 在 [edk2-pixel3](https://github.com/Pixel3Dev/edk2-pixel3) 和 [edk2-sagit](https://github.com/fxsheep/edk2-sagit) 所完成的工作
-- 感谢 [imbushuo](https://github.com/imbushuo) 提供来自 [Lumia950XLPkg](https://github.com/WOA-Project/Lumia950XLPkg） 的 `SimpleFbDxe` 屏幕驱动
+- 感谢 [imbushuo](https://github.com/imbushuo) 提供来自 [Lumia950XLPkg](https://github.com/WOA-Project/Lumia950XLPkg) 的 `SimpleFbDxe` 屏幕驱动
