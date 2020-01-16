@@ -1,11 +1,13 @@
 # EDK2 Implementation for Xiaomi MI 8
 Porting edk2 to Xiaomi MI 8 (dipper)
 
+English | [中文](https://github.com/EngLearnsh/edk2-dipper/blob/master/README_CN.md)
+
 ## Status
 
 Successfully running UEFI Shell with internal UFS support. Display works well
 
-Since Mi 8 is my current daily driver, I may update process once I have time
+Since Mi 8 is my current daily driver, I may update once I have time
 
 ## Building
 
